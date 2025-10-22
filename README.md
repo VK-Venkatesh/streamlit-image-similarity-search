@@ -4,8 +4,7 @@
 Streamlit Image Similarity Search is a deep learning–powered web app that finds and displays the most visually similar images from a dataset.
 It uses MobileNetV2 (pretrained on ImageNet) as a feature extractor and cosine similarity to compare images.
 The app allows users to upload an image or select one from the database, instantly retrieving top visually similar matches.
-The dataset is hosted on Kaggle
-(https://www.kaggle.com/datasets/venkatesh2410/similar-images).
+The dataset is hosted on Kaggle (https://www.kaggle.com/datasets/venkatesh2410/similar-images).
 
 ### Dataset
 
