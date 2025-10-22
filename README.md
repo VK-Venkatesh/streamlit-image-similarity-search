@@ -71,4 +71,4 @@ This project is released under the MIT License.
 Venktesh
 Deep Learning & Computer Vision Enthusiast
 📧 [venkateshvarada56@gmail.com]
-🔗 []
+🔗 [https://github.com/VK-Venkatesh]
